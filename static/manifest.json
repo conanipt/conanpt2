@@ -1,0 +1,14 @@
+{
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "name": "conan.pt",
+    "short_name": "CP",
+    "display": "fullscreen",
+    "start_url": "/",
+    "icons": [{
+        "src": "/img/manifest.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }]
+}
